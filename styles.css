@@ -1,0 +1,119 @@
+body {
+    font-family: sans-serif; }
+  
+  .nb-item {
+    float: right; }
+  
+  .n-bar {
+    list-style-type: none;
+    overflow: hidden;
+    width: fit-content;
+    margin: auto;
+    margin-right: 5%; }
+  
+  .nb-link {
+    color: #0e0e0e;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px; }
+  
+  .nb-link:hover {
+    text-decoration: underline; }
+  
+  .logo {
+    font-size: 80px;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 0px; }
+  
+  .blue {
+    color: #001aff; }
+  
+  .red {
+    color: #ff1717; }
+  
+  .yellow {
+    color: #d8b908; }
+  
+  .green {
+    color: #007000; }
+  
+  .s-div {
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 25px; }
+  
+  .s-bar {
+    margin: auto;
+    width: 550px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: #afafaf;
+    outline: none; }
+  
+  .s-link {
+    color: #0e0e0e;
+    background-color: white;
+    border-color: white;
+    border-width: 0px;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-right: 20px;
+    border-radius: 10px; }
+  
+  .s-link:hover {
+    border-color: #8a8a8a;
+    border-width: 1px; }
+  
+  .logo-d {
+    width: fit-content;
+    height: fit-content;
+    margin: auto; }
+  
+  .img-logo {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    color: #3333ff;
+    text-align: right; }
+  
+  .ad-logo {
+    color: #ff2020;
+    font-size: 30px; }
+  
+  .fpw-logo {
+    color: #3a3a3a;
+    font-size: 20px; }
+  
+  .ad-s {
+    color: #3a3a3a;
+    font-size: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 15px;
+    margin-left: 30px; }
+  
+  .ad-s-bar {
+    width: 400px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 15px; }
+  
+  .ad-d {
+    width: fit-content; }
+  
+  .ad-link {
+    border: none;
+    background-color: #5252ff;
+    color: white;
+    cursor: pointer;
+    width: fit-content;
+    border-radius: 6px;
+    height: 30px;
+    margin-left: 500px; }
